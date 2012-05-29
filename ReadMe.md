@@ -15,3 +15,4 @@ All sounds are original creations, no third-party samples have been used unless 
 ## Update Log
 
 * **2012-05-26** -- Pack 1: "Wavs or it didn't happen" (12 sounds, synthesizer-based)
+* **2012-05-28** -- Pack 2: "Effectoids" (27 sounds, synthesizer-based)
