@@ -17,3 +17,4 @@ All sounds are original creations, no third-party samples have been used unless 
 * **2012-05-26** -- Pack 1: "Wavs or it didn't happen" (12 sounds, synthesizer-based)
 * **2012-05-28** -- Pack 2: "Effectoids" (27 sounds, synthesizer-based)
 * **2012-06-07** -- Pack 3: "Bad Robot" (26 sounds, synthesizer-based)
+* **2012-06-19** -- Pack 4: "Boomoids" (20 sounds, synthesizer-based)
